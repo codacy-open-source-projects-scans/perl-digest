@@ -1,0 +1,12 @@
+*~
+/*.tar.gz
+/Makefile
+/*.old
+/pm_to_blib
+/blib
+/MYMETA.*
+/META.*
+/MANIFEST.bak
+/Digest-[0-9]*
+*.ERR
+*.bak
